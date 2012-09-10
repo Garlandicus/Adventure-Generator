@@ -1,6 +1,6 @@
 def parseUserInput(userInput):
     tokenizedInput = userInput.split(" ")
-    return tokenizedInput
+    return tokenizedOutput
 
 #look, take, move
 def takeAction(action):
