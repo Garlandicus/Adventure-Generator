@@ -6,6 +6,7 @@ class Overworld:
     items = []
     print("LOLOLOLOLOLOL")
     print("jkjk")
+    print("^_^")
 
     def generateDestination():
         destination = []
